@@ -187,7 +187,17 @@ Estimated the intrinsic value of Escorts Kubota using the Free Cash Flow to Firm
 
 ### DCF Valuation Model
 
-![DCF Valuation](dcf-valuation.png)
+### DCF Assumptions
+![DCF Assumptions](dcf-assumptions.png)
+
+### Financial Forecasts
+![DCF Forecasts](dcf-forecasts.png)
+
+### FCFF & Discounting
+![FCFF Analysis](fcff-discounting.png)
+
+### Valuation Output
+![DCF Valuation Output](dcf-valuation-output.png)
 
 ---
 
