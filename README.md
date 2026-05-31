@@ -1,48 +1,53 @@
-# 📊 Financial Modeling & Analysis – Escorts Kubota Ltd
+# 📊 Financial Modeling & Analysis – Escorts Kubota Ltd.
 
 ## 🎯 Project Objective
-This project involves building a comprehensive and integrated financial model to analyze company performance, evaluate financial health, and forecast future trends.
+Developed a comprehensive financial model for Escorts Kubota Ltd. to analyze historical performance, forecast future financials, estimate the company's cost of capital, and evaluate key financial metrics through interactive dashboards.
 
-The model combines 3-statement financial modeling, forecasting, WACC estimation, sensitivity analysis, and dashboard visualization to support data-driven financial decision-making.
+The model integrates forecasting, WACC estimation, ratio analysis, sensitivity testing, and financial visualization to support investment and strategic decision-making.
 
 ---
 
 ## 🛠 Tools Used
-- Microsoft Excel (Advanced Financial Modeling)
-- Financial Statement Analysis  
-- Regression Analysis (Beta Calculation)  
-- Forecasting Techniques  
-- Ratio & Trend Analysis  
-- Sensitivity & Scenario Analysis  
+- Microsoft Excel
+- Financial Modeling
+- Financial Statement Analysis
+- Forecasting Techniques
+- Ratio Analysis
+- WACC Calculation
+- Dashboard Design
+- Sensitivity Analysis
 
 ---
 
 ## 📂 Model Structure
-1. Historical Financial Statements (Income Statement, Balance Sheet, Cash Flow)  
-2. Forecasting Model (2026–2030)  
-3. Beta Calculation (Regression Analysis)  
-4. WACC Calculation (CAPM-based)  
-5. Ratio & Trend Analysis  
-6. Variance Analysis (Actual vs Forecast)  
-7. Sensitivity & Scenario Analysis  
-8. Financial Dashboards  
+1. Historical Financial Statement Analysis
+2. Revenue & Earnings Forecasting
+3. Working Capital Analysis
+4. WACC Calculation
+5. Financial Ratio Analysis
+6. Variance Analysis
+7. Sensitivity Analysis
+8. Performance Dashboards
 
 ---
 
 ## 📈 Forecasting Model
-Revenue projections are based on historical trends with a declining growth assumption to reflect business maturity.
+Future financial performance is projected using historical growth trends, margin assumptions, and business-specific operating drivers.
 
-### Forecasting Preview
+### Forecasting Dashboard
 ![Forecast Preview](forecasting-model.png)
 
 ---
 
-## 💰 Cost of Capital (WACC)
-WACC is calculated using:
-- Beta estimation via regression  
-- Capital structure analysis  
-- CAPM for cost of equity  
-- After-tax cost of debt  
+## 💰 Weighted Average Cost of Capital (WACC)
+
+The model estimates the company's cost of capital using:
+
+- CAPM-based Cost of Equity
+- Cost of Debt Analysis
+- Capital Structure Weights
+- Beta Estimation
+- Risk-Free Rate & Market Risk Premium
 
 ### WACC Analysis
 ![WACC Analysis](wacc-calculation.png)
@@ -51,22 +56,30 @@ WACC is calculated using:
 
 ## 📊 Financial Dashboards
 
-### 📈 Financial Performance Dashboard
-- Sales, EBITDA, Net Profit  
-- Operating & Net Margins  
-- Expense Trends  
-- Return on Equity (ROE)  
+### Financial Performance Dashboard
+Tracks key financial indicators including:
+
+- Revenue Growth
+- EBITDA
+- Net Profit
+- Operating Margin
+- Net Margin
+- Return Metrics
 
 ![Financial Performance](financial-performance-dashboard.png)
 
 ---
 
-### 📉 Key Ratios Dashboard
-- ROE vs ROCE  
-- Debt–Equity Ratio  
-- Interest Coverage Ratio  
-- Cash Conversion Cycle  
-- Margin Analysis  
+### Key Ratios Dashboard
+
+Analyzes critical financial ratios such as:
+
+- ROE
+- ROCE
+- Debt-to-Equity Ratio
+- Interest Coverage Ratio
+- Asset Turnover
+- Liquidity Metrics
 
 ![Key Ratios](key-ratios-dashboard.png)
 
@@ -74,54 +87,70 @@ WACC is calculated using:
 
 ## 🔍 Advanced Analysis
 
-### Regression-Based Beta
-- Beta calculated using stock vs market returns  
-- Adjusted beta applied  
+### Ratio Analysis
+- Profitability Ratios
+- Liquidity Ratios
+- Efficiency Ratios
+- Solvency Ratios
 
 ### Variance Analysis
-- Actual vs Forecast comparison  
-- Best & Worst case scenarios  
+- Historical Performance Comparison
+- Actual vs Forecast Assessment
 
 ### Sensitivity Analysis
-- WACC sensitivity  
-- Net Profit sensitivity  
-- EPS sensitivity  
+- Impact of growth assumptions
+- Margin sensitivity
+- Cost of capital sensitivity
 
 ---
 
 ## 📁 Financial Model File
-[Download Financial Model](financial-model.xlsx)
+
+📄 **financial-model.xlsx**
+
+Contains all calculations, assumptions, forecasts, dashboards, and supporting analyses.
 
 ---
 
 ## 🔎 Key Insights
-- Revenue growth stabilizing over time  
-- Profit influenced by non-operating income  
-- Strong capital efficiency  
-- Margins show cyclical movement  
+
+- Revenue growth shows long-term stabilization trends.
+- Profitability is influenced by both operating and non-operating factors.
+- Capital structure remains a key determinant of shareholder returns.
+- Financial ratios indicate operational efficiency and business quality.
+- Forecast assumptions significantly impact long-term performance projections.
 
 ---
 
 ## 💼 Business Impact
-- Helps evaluate company performance  
-- Identifies profitability and risk drivers  
-- Supports financial and investment decisions  
-- Enables scenario-based planning  
+
+This model helps:
+
+- Evaluate company performance
+- Understand key value drivers
+- Assess financial health
+- Support investment research
+- Enable scenario-based planning
+- Improve strategic decision-making
 
 ---
 
-## 🚀 Key Skills Demonstrated
-- 3-Statement Financial Modeling  
-- Forecasting  
-- WACC Calculation  
-- Regression Analysis  
-- Sensitivity & Scenario Analysis  
-- Financial Statement Analysis  
-- Dashboard Design  
+## 🚀 Skills Demonstrated
+
+- Financial Modeling
+- Forecasting & Projections
+- WACC Calculation
+- Financial Statement Analysis
+- Ratio Analysis
+- Dashboard Design
+- Sensitivity Analysis
+- Corporate Finance
+- Equity Research
 
 ---
 
-## 🔮 Future Improvements
-- Add DCF Valuation  
-- Add Comparable Company Analysis  
-- Build valuation dashboard  
+## 👨‍💼 Author
+
+Pratha Jain
+
+Finance | Financial Modeling | Equity Research | Valuation
